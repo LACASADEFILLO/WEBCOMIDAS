@@ -1,0 +1,13 @@
+La Casa de Fillo - sitio web multipagina
+
+Abre index.html para comenzar.
+
+Paginas:
+- index.html      Inicio
+- experiencia.html Ambiente y restaurante
+- servicios.html   Servicios
+- galeria.html     Galería
+- redes.html       Redes sociales
+- contacto.html    Contacto y ubicación
+
+No requiere servidor para verlo localmente. Todos los archivos usan rutas relativas.
